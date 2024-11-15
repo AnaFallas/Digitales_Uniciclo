@@ -6,6 +6,6 @@ Write-Host $REPO
 
 vlib work
 vmap work work
-vlog -sv uni_tb.sv uni.sv 
-vsim -c -voptargs=+acc work.uni_tb -do "add wave *; run -all; quit -f"
+vlog -sv cpu_tb.sv cpu.sv 
+vsim -c -voptargs=+acc work.cpu_tb -do "add wave *; run -all; quit -f"
 #vsim -view vsim.wlf
