@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Memorias/instmem
+vimem
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1731826714
+!i10b 1
+!s100 d9jok61:JLYcf[PV32QPK0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I::d?2?JXlbTh1>9FnL4<60
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1731826606
+8imem.sv
+Fimem.sv
+!i122 1
+L0 4 24
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1731826714.000000
+Z7 !s107 imem_tb.sv|imem.sv|
+Z8 !s90 -sv|imem.sv|imem_tb.sv|
+!i113 1
+o-sv
+Z9 tCvgOpt 0
+vimem_tb
+R1
+R2
+!i10b 1
+!s100 TYYWcJ6[??dbg096]i9c20
+R3
+I]IPd16TiY5=[K>nQkU;MG3
+R4
+S1
+R0
+w1731826701
+Z10 8imem_tb.sv
+Z11 Fimem_tb.sv
+!i122 1
+Z12 L0 1 55
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+o-sv
+R9
+vtb_imem
+R1
+!s110 1731826668
+!i10b 1
+!s100 o_B1mF>J@j?8JOGLQhH`Y0
+R3
+I]=>BSd=m15VzDEUE`KE=W2
+R4
+S1
+R0
+w1731826604
+R10
+R11
+!i122 0
+R12
+R5
+r1
+!s85 0
+31
+!s108 1731826668.000000
+R7
+R8
+!i113 1
+o-sv
+R9
