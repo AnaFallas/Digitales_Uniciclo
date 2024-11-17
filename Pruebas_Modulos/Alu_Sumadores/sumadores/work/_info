@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Alu_Sumadores/sumadores
+vadd32
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1731814992
+!i10b 1
+!s100 P9XNc>SMJ`eLAUU71KGEb1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?F<8N3H]zH[ed:P4Ui9kl3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1731814929
+8add32.sv
+Fadd32.sv
+!i122 1
+L0 1 9
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1731814992.000000
+!s107 add32_tb.sv|add32.sv|
+Z7 !s90 -sv|add32.sv|add32_tb.sv|
+!i113 1
+o-sv
+Z8 tCvgOpt 0
+vadd32_tb
+R1
+R2
+!i10b 1
+!s100 mS9Cc7oAcNR7lnn61=CY81
+R3
+IjPbJgbNXZe^JA;CgNeaJO0
+R4
+S1
+R0
+w1731814927
+8add32_tb.sv
+Fadd32_tb.sv
+!i122 1
+L0 1 37
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 add32_tb.sv|add32.sv|
+R7
+!i113 1
+o-sv
+R8

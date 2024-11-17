@@ -48,9 +48,10 @@ module cpu_tb();
     
     
 
-    // Impresi�n del valor de ReadData en cada ciclo de reloj
+    // Impresion del valor de ReadData en cada ciclo de reloj
     always @(posedge clk) begin
-        $display("Tiempo: %0t ns, Resultado (Result): %h", $time, ReadData);
+       //$display("Tiempo: %0t ns, Resultado (Result): %h", $time, ReadData);
+       $display("Tiempo=%0t | PC=%h | Instr=%h | ALUResult=%h | ImmExt=%h | RegWrite=%b",$time, PC, Instr, ALUResult, ImmExt, RegWrite);
     end
 
 endmodule

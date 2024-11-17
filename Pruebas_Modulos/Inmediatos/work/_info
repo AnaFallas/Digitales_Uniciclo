@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Generación_Inmediatos
+vextend
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1731817809
+!i10b 1
+!s100 VHa8917n@m;kjaLPfR^l62
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUoPQ7_@eWW8Fhh5P5ZQoK2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Inmediatos
+w1731817438
+8extend.sv
+Fextend.sv
+!i122 0
+L0 1 15
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1731817809.000000
+!s107 extend_tb.sv|extend.sv|
+Z7 !s90 -sv|extend.sv|extend_tb.sv|
+!i113 1
+o-sv
+Z8 tCvgOpt 0
+vextend_tb
+R0
+R1
+!i10b 1
+!s100 3Y[_CW9]Zg`mnH?[`aOZO3
+R2
+I>Fhe5e50^b6n;ZU>Y7h4^2
+R3
+S1
+R4
+w1731817467
+8extend_tb.sv
+Fextend_tb.sv
+!i122 0
+L0 1 43
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 extend_tb.sv|extend.sv|
+R7
+!i113 1
+o-sv
+R8

@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Memorias/dmem
+vdmem
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1731818284
+!i10b 1
+!s100 _9@>fb6LA6G7m:h7Uzk1o3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I26N_dRlX=Sgd8<PNC;8aE0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1731816543
+8dmem.sv
+Fdmem.sv
+!i122 1
+L0 2 43
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1731818283.000000
+!s107 dmem_tb.sv|dmem.sv|
+Z7 !s90 -sv|dmem.sv|dmem_tb.sv|
+!i113 1
+o-sv
+Z8 tCvgOpt 0
+vdmem_tb
+R1
+R2
+!i10b 1
+!s100 @_ko=ic4Df7Yd_z^3akci1
+R3
+I_Oi_DS8=XNXJAoFj`4NcQ1
+R4
+S1
+R0
+w1731818283
+8dmem_tb.sv
+Fdmem_tb.sv
+!i122 1
+L0 3 69
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 dmem_tb.sv|dmem.sv|
+R7
+!i113 1
+o-sv
+R8

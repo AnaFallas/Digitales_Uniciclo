@@ -1,0 +1,188 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Alu_Sumadores
+vadder_ripple_carry
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1731814394
+!i10b 1
+!s100 XNZC:S=P>AK<AT8DKLdL`3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVXBGg9SCF=b1;W6HYR_C:0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z5 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Alu_Sumadores/alu
+Z6 w1731814123
+Z7 8Alu.sv
+Z8 FAlu.sv
+!i122 5
+L0 89 40
+Z9 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z10 !s108 1731814394.000000
+Z11 !s107 Alu_tb.sv|Alu.sv|
+Z12 !s90 -sv|Alu.sv|Alu_tb.sv|
+!i113 1
+o-sv
+Z13 tCvgOpt 0
+vAlu
+R1
+R2
+!i10b 1
+!s100 dj^96]WULYWLV3>[HkoKJ2
+R3
+ID3YP6KhIkkD@AO4V_TNPi1
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 5
+L0 1 70
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+o-sv
+R13
+n@alu
+vAlu_tb
+R1
+R2
+!i10b 1
+!s100 S=hMjo:WSMML`kQlH2Ol_0
+R3
+I?c4?N[LKiAMYc06i<;=3E2
+R4
+S1
+R5
+w1731813984
+Z14 8Alu_tb.sv
+Z15 FAlu_tb.sv
+!i122 5
+Z16 L0 3 68
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+o-sv
+R13
+n@alu_tb
+vfull_adder
+R1
+R2
+!i10b 1
+!s100 Vkf70ICMZm8XnzQF<F=H41
+R3
+I[?4[zM2`^hOL8>5Kz0R7W0
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 5
+L0 73 14
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+o-sv
+R13
+vmux_a2
+R1
+R2
+!i10b 1
+!s100 ID7UCZRBAPeDm1z?IUD1f3
+R3
+Ii65:_FfRAjcbLZ=@mPbH]1
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 5
+L0 130 8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+o-sv
+R13
+vmux_out
+R1
+R2
+!i10b 1
+!s100 DHBB7EC9]WX30GU3kGNcN1
+R3
+IiiQX1Y8YdzXng>SjSH^ac0
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 5
+L0 141 22
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+o-sv
+R13
+vtb_alu
+R1
+!s110 1731813884
+!i10b 1
+!s100 m6X[<R6IW7@R04j>0Xmmj1
+R3
+IY1hc@dcP5in;cXmcJCS@^0
+R4
+S1
+R0
+w1731813601
+R14
+R15
+!i122 1
+R16
+R9
+r1
+!s85 0
+31
+!s108 1731813884.000000
+R11
+R12
+!i113 1
+o-sv
+R13

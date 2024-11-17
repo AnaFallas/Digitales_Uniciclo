@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Memorias/register_bank
+vregister_bank
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1731818625
+!i10b 1
+!s100 OCOP0bU[fcCGbmb5kT9GS1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImU<Ro6SGaF37E`@EN[k`93
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/Pruebas_Modulos/Memorias/regbank
+w1731816545
+8register_bank.sv
+Fregister_bank.sv
+!i122 3
+L0 1 27
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1731818625.000000
+!s107 register_bank_tb.sv|register_bank.sv|
+Z7 !s90 -sv|register_bank.sv|register_bank_tb.sv|
+!i113 1
+o-sv
+Z8 tCvgOpt 0
+vregister_bank_tb
+R0
+R1
+!i10b 1
+!s100 TIoT8Nf1W@ONPTY?T7U8l3
+R2
+IH2Rl2Nk`be^GH0lRE[lH<2
+R3
+S1
+R4
+w1731818621
+8register_bank_tb.sv
+Fregister_bank_tb.sv
+!i122 3
+L0 3 82
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 register_bank_tb.sv|register_bank.sv|
+R7
+!i113 1
+o-sv
+R8
