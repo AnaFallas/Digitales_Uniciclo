@@ -17,12 +17,6 @@ module cpu_tb();
     
     wire [31:0] ReadData;
     
-    
-    
-    
-    
-    
-
     // Instancia del m�dulo CPU
     cpu cpu1(
         .clk(clk),
@@ -50,8 +44,7 @@ module cpu_tb();
 
     // Impresion del valor de ReadData en cada ciclo de reloj
     always @(posedge clk) begin
-       //$display("Tiempo: %0t ns, Resultado (Result): %h", $time, ReadData);
-       $display("Tiempo=%0t | PC=%h | Instr=%h | ALUResult=%h | ImmExt=%h | RegWrite=%b",$time, PC, Instr, ALUResult, ImmExt, RegWrite);
+       $display("Tiempo: %0t ns, Resultado (Result): %h", $time, ReadData);
     end
 
 endmodule

@@ -11,7 +11,7 @@ cModel Technology
 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo
 vadd32
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1731800945
+Z1 !s110 1731828294
 !i10b 1
 !s100 Wb0j`8iMMCA<^b>gbE[3<3
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -22,13 +22,13 @@ Z4 dC:/Users/Anita/Desktop/Tec/Semestre 2 2024/digitales/git/Digitales_Uniciclo/
 Z5 w1731798361
 Z6 8cpu.sv
 Z7 Fcpu.sv
-!i122 6
+!i122 8
 L0 479 9
 Z8 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z9 !s108 1731800944.000000
+Z9 !s108 1731828294.000000
 !s107 cpu.sv|cpu_tb.sv|
 Z10 !s90 -sv|cpu_tb.sv|cpu.sv|
 !i113 1
@@ -47,7 +47,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 336 40
 R8
 r1
@@ -72,7 +72,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 248 70
 R8
 r1
@@ -97,7 +97,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 508 114
 R8
 r1
@@ -122,7 +122,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 12 159
 R8
 r1
@@ -138,17 +138,17 @@ vcpu_tb
 R0
 R1
 !i10b 1
-!s100 hGQj87m]1XjYh7<Ko3L[13
+!s100 R;8J>1?GQ>Xn2Fi_[<MQN1
 R2
-IIg8e6>gh:;cEUR4f:f?3k2
+I>][dLC@m>][6zTc9[fkLR3
 R3
 S1
 R4
-w1731800944
+w1731828290
 8cpu_tb.sv
 Fcpu_tb.sv
-!i122 6
-L0 13 45
+!i122 8
+L0 13 38
 R8
 r1
 !s85 0
@@ -172,7 +172,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 417 43
 R8
 r1
@@ -197,7 +197,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 491 15
 R8
 r1
@@ -223,7 +223,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 320 14
 R8
 r1
@@ -248,7 +248,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 194 24
 R8
 r1
@@ -273,7 +273,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 463 14
 R8
 r1
@@ -298,7 +298,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 380 8
 R8
 r1
@@ -323,7 +323,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 391 22
 R8
 r1
@@ -348,7 +348,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 175 15
 R8
 r1
@@ -373,7 +373,7 @@ R4
 R5
 R6
 R7
-!i122 6
+!i122 8
 L0 220 27
 R8
 r1
